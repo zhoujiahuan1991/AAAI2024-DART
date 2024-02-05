@@ -10,11 +10,15 @@ For a complete configuration environment, see environment.yaml
 
 ### Data
 You should download [ImageNet-A](https://github.com/hendrycks/natural-adv-examples), [ImageNet-R](https://github.com/hendrycks/imagenet-r) and [ImageNet-Sketch](https://github.com/HaohanWang/ImageNet-Sketch) first.
+
+
 Then your data directory should be organized in the following format:
-+-- you_data_path
-|   +-- imagenet-a
-|   +-- imagenet-r
-|   +-- imagenet-sketch
+
+- **you_data_path**
+  - *imagenet-a*
+  - *imagenet-r*
+  - *imagenet-sketch*
+
 
 ### DART
 Taking the ImageNet-A dataset as an example, you can run the following command:
