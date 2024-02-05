@@ -1,11 +1,14 @@
 ### Introduction
-This is the source code of our AAAI 2024 paper "DART: Dual-Modal Adaptive Online Prompting and Knowledge Retention for Test-Time Adaptation". Please cite the following paper if you use our code.
+This is the source code of our AAAI 2024 paper "DART: Dual-Modal Adaptive Online Prompting and Knowledge Retention for Test-Time Adaptation". 
+
+Please cite the following paper if you use our code.
 
 Zichen Liu, Hongbo Sun, Yuxin Peng and Jiahuan Zhou*, "DART: Dual-Modal Adaptive Online Prompting and Knowledge Retention for Test-Time Adaptation", AAAI, 2024.
 
 
 ### Environment
 This code is based on pytorch2.0.1, pytorch-cuda11.8, and torchvision0.15.2.
+
 For a complete configuration environment, see environment.yaml
 
 ### Data
