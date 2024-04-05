@@ -1,9 +1,7 @@
 ### Introduction
 This is the *official* repository of our AAAI 2024 paper "DART: Dual-Modal Adaptive Online Prompting and Knowledge Retention for Test-Time Adaptation". 
 
-Please cite the following paper if you use our code.
-
-Zichen Liu, Hongbo Sun, Yuxin Peng and Jiahuan Zhou*, "DART: Dual-Modal Adaptive Online Prompting and Knowledge Retention for Test-Time Adaptation", AAAI, 2024.
+For more details, please check out our [paper](https://ojs.aaai.org/index.php/AAAI/article/view/29320).
 
 ![Framework](figs/framework.png)
 
