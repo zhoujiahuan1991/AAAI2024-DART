@@ -43,3 +43,27 @@ The Acc@1 comparison results against CLIP and the latest few-shot fine-tuning me
 The comparison results against state-of-the-art TTA methods on three benchmark datasets. ViT represents the ViT-B/16 model pre-trained on ImageNet, and CLIP represents the pre-trained CLIP model with ViT-B/16 architecture.
 
 ![Results](figs/result_2.png)
+
+
+### Citation
+If you find this code useful for your research, please cite our paper.
+```
+@inproceedings{liu2024dart,
+  title={DART: Dual-Modal Adaptive Online Prompting and Knowledge Retention for Test-Time Adaptation},
+  author={Liu, Zichen and Sun, Hongbo and Peng, Yuxin and Zhou, Jiahuan},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={13},
+  pages={14106--14114},
+  year={2024}
+}
+```
+
+
+### Acknowledgement
+Our code is based on the PyTorch implementation of [TPT](https://github.com/azshue/TPT).
+
+### Contact
+For any questions, feel free to contact us ([lzc20180720@stu.pku.edu.cn](lzc20180720@stu.pku.edu.cn)).
+
+Welcome to our [Laboratory Homepage](http://39.108.48.32/mipl/home/) and [OV^3 Lab](https://zhoujiahuan1991.github.io/) for more information about our papers, source codes, and datasets.
