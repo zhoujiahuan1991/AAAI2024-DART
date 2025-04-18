@@ -1,3 +1,6 @@
+<p align="center">
+<a href="https://github.com/zhoujiahuan1991/AAAI2024-DART"><img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fzhoujiahuan1991%2FAAAI2024-DART&label=DAPT&icon=github&color=%233d8bfd"></a>
+</p>
 ### Introduction
 This is the *official* repository of our AAAI 2024 paper "DART: Dual-Modal Adaptive Online Prompting and Knowledge Retention for Test-Time Adaptation". 
 
